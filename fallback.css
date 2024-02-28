@@ -4,6 +4,6 @@
 
 @supports(height: 100dvh) {
   #applayout { 
-      height: 100vh
+      height: 80vh
   }
 }

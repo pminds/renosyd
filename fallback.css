@@ -2,3 +2,8 @@
     height: 100vh
 }
 
+@supports(height: 100dvh) {
+  #applayout { 
+      height: 100dvh
+  }
+}

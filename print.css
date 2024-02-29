@@ -6,6 +6,6 @@ body {
 	color: black;
 }
 
-iframe, .dtmZCT { 
+iframe, nav-bottom-bar, .dtmZCT { 
   display: none;
 }

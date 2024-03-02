@@ -1,11 +1,13 @@
 /* PRINT STYLESHEET MARTS 2024 */
 
-body {
-	font-family: Georgia, serif;
-	background: none;
-	color: black;
-}
-
-iframe, nav-bottom-bar, .dtmZCT { 
-  display: none;
+@media print {
+	body {
+		font-family: Georgia, serif;
+		background: none;
+		color: black;
+	}
+	
+	iframe, nav-bottom-bar, .dtmZCT { 
+	  	display: none;
+	}
 }

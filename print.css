@@ -7,7 +7,7 @@
 		color: black;
 	}
 	
-	iframe, nav-bottom-bar, .dtmZCT { 
-	  	display: none;
+	iframe, nav-bottom-bar, .eSEigG, .dtmZCT { 
+	  	display: none !important;
 	}
 }

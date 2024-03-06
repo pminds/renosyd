@@ -7,10 +7,16 @@
 		color: black;
 	}
 	
-	iframe, nav-bottom-bar, .ekptQy, .eSEigG, .dtmZCT, .eMISnK, .fMdrb { 
+	iframe, nav-bottom-bar, .ekptQy, .eSEigG, .dtmZCT, .eMISnK, .fMdrb, .fBZmuL { 
 	  	display: none !important;
 	}
 	.dNEhFg {
 		display: block !important;
+	}
+	.byQSLJ {
+		background-color: white;
+	}
+	.bboCqo { 
+		border: 1px solid black;
 	}
 }

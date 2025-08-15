@@ -1,0 +1,11 @@
+@page {
+  size: 1000mm 1500mm; /* 1 x 1.5 m */
+  margin: 0;
+}
+
+/* Scale the entire page to fit poster dimensions */
+html, body {
+  width: 1000mm;
+  height: 1500mm;
+  margin: 0;
+}
